@@ -1,8 +1,4 @@
-Great! Based on your answers, here’s a draft of your README.md:
-
----
-
-## 👋 Hi, I'm SonOfKrypton!
+## 👋 "Hello there"
 
 ### 🦸‍♂️ "Make it Happen."
 
