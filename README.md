@@ -1,6 +1,6 @@
 ## 👋 "Hello there"
 
-### 🦸‍♂️ **Make it Happen.**
+### 🦸‍♂️ *Make it Happen.*
 
 I’m a penultimate-year physics scholar with a strong passion for technology and coding. I enjoy diving into the world of programming, creating projects for the sake of making, and pushing the boundaries of what's possible.
 
