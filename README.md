@@ -15,6 +15,8 @@ I’m a penultimate-year physics scholar with a strong passion for technology an
 ### 🚀 Projects & Interests
 
 I love working on projects that challenge me and allow me to learn new things. Lately, I've been particularly interested in quantum algorithms, which is why I’m diving into Rust—its speed and efficiency are perfect for this field.
+Here's a list of projects that I have completed so far:
+- [The classic Snake game, implemented in Rust](https://github.com/TheSonOfKrypton/Rust--Snake)
 
 ### 🌱 What I’m Learning
 
