@@ -1,25 +1,56 @@
-## 👋
-![hello there](https://github.com/user-attachments/assets/aa9817e3-b43d-4b5b-9117-7cc9d67a31c4)
+# Professional Profile
 
+## About Me
 
-### 🦸‍♂️ *The 'S' Stands for Making it Happen.*
+Physics scholar with specialized expertise in AI/ML, Python, SQL, Quantum Information Theory, Physics, and X-ray technology. Currently developing proficiency in machine learning model optimization, SQL database management, and quantum algorithm implementation. Passionate about the intersection of artificial intelligence and quantum computing, with active learning streaks on Kaggle and HackerRank to strengthen technical interview preparation.
 
-I’m a penultimate-year physics scholar with a strong passion for fundamental physics, technology, and coding. I enjoy diving into the world of quantum programming, learning things for the sake of it, and pushing the boundaries of what's possible.
+My research interests span X-ray technology applications, memory improvement techniques, philosophical frameworks for problem-solving, and schedule optimization methodologies.
 
-### 🛠️ Technologies & Skills
+## Technologies & Skills
 
-- **Proficient in:** Python, HTML, CSS, JavaScript
-- **Currently exploring:** Rust, C#
-- **Quantum Algorithms:** Developing an understanding of quantum algorithms and how to implement them in systems like Qiskit, TripleAlpha, and Classiq.
+### Core Technologies
+- **Programming Languages**: Python, SQL, JavaScript, HTML/CSS
+- **Data Science & ML**: pandas, scikit-learn, model optimization, data analysis pipelines
+- **Quantum Computing**: Qiskit, quantum algorithm development, error correction protocols
+- **Database Management**: SQL query optimization, database design
+- **Currently Learning**: Rust, C#, advanced ML architectures
 
-### 🚀 Projects & Interests
+### Professional Development
+- **Continuous Learning Platforms**: Active on Kaggle, HackerRank, technical forums
+- **Technical Writing**: Maintain technical blog documenting learning journey and insights
+- **Research Areas**: AI-quantum integration, computational physics, memory enhancement
+- **Interview Preparation**: Focused on technical problem-solving and system design
+- **Additional Interests**: Memory techniques, philosophy, schedule optimization
 
-I love working on projects that challenge me and allow me to learn new things. Lately, I've been particularly interested in quantum algorithms, which is why I’m diving into Rust—its speed and efficiency are perfect for this field.
-Here's a list of projects that I have completed so far:
-- [The classic Snake game, implemented in Rust](https://github.com/TheSonOfKrypton/Rust--Snake)
-- [A robust guide on Quantum Error Correction (QEC), specifically on implementing a surface-17 code](https://github.com/TheSonOfKrypton/FLIQ-Hackathon-2025) 
+## Projects & Interests
 
-### Let’s Collaborate!
+### Quantum Error Correction Research
+[Surface-17 Code Implementation](https://github.com/TheSonOfKrypton/FLIQ-Hackathon-2025) - Comprehensive guide and implementation of quantum error correction protocols, specifically focusing on surface-17 code architecture for fault-tolerant quantum computing.
 
-I’m always up for collaborating on fun and exciting projects. If you have an idea or project that you think would be a great fit, feel free to reach out!
+### Systems Programming
+[Rust Game Engine](https://github.com/TheSonOfKrypton/Rust--Snake) - High-performance Snake game implementation demonstrating systems-level programming concepts and optimization techniques in Rust.
 
+### Current Research Focus
+- **AI-Quantum Integration**: Exploring hybrid classical-quantum algorithms for optimization problems
+- **Technical Interview Mastery**: Systematic approach to data structures, algorithms, and system design
+- **Memory and Cognitive Enhancement**: Research into effective learning methodologies and retention techniques
+
+## Professional Collaboration
+
+Open to collaboration with researchers, developers, and students working on:
+- Machine learning model development and optimization
+- Quantum computing applications and algorithm design
+- Technical mentorship and knowledge sharing
+- Research partnerships in computational physics and AI
+
+For professional inquiries, technical discussions, or collaboration opportunities, please feel free to connect. Always interested in engaging with fellow researchers and practitioners pushing the boundaries of technology and science.
+
+## Links
+
+**Peruse these to know more about me:**
+- **Website**: [devverma.com](https://devverma.com)
+- **LinkedIn**: [linkedin.com/in/7devverma](https://linkedin.com/in/7devverma)
+
+## Connect
+
+Interested in meaningful technical discussions, research collaboration, and knowledge exchange in AI, quantum computing, and advanced problem-solving methodologies.
