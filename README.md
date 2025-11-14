@@ -9,6 +9,9 @@ I build fun projects and like to break things (for science, of course).
 1. [My Track Winning Entry for the UN ITU FLIQ 2025 Hackathon](https://github.com/TheSonOfKrypton/FLIQ-Hackathon-2025) – Quantum error correction hackathon submission. Surface codes are fun.
 2. [The Snake Game (Rust)](https://github.com/TheSonOfKrypton/Rust--Snake) – Classic Snake game in Rust. Because why not reinvent the wheel in a systems language?
 
+### Quantum Machine Learning (QML) Projects
+- [QAOA for MaxCut](https://github.com/TheSonOfKrypton/QAOA-MaxCut) - shows how one can solve the MaxCut problem on small graphs using QAOA (Quantum Approximate Optimization Algorithm) with Qiskit. 
+
 ### ML and DL Projects
 Contains my notebooks of explorations of datasets to apply the Machine Learning (ML) and Deep Learning (DL) skills I learn.
 
