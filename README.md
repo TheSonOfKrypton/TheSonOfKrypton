@@ -6,8 +6,8 @@ Most of what I think about is quantum information theory, computational mechanic
 
 ## Things I've worked on
 
+- [FLIQ 2025](https://github.com/TheSonOfKrypton/FLIQ-Hackathon-2025) - won the Education Track at the UN ITU Future Leaders in Quantum hackathon, entering solo against 102 teams from 30 countries. The entry, a Surface-17 error correction tutorial run on IBM quantum hardware, also won the Implementing Quantum Algorithms challenge (co-curated by IBM and UPenn).
 - **How Mean is Your Beam?** Poster at IEEE Quantum Week 2026 (QCE26) on QCi's Dirac-3 photonic solver.
-- [FLIQ 2025](https://github.com/TheSonOfKrypton/FLIQ-Hackathon-2025) - won a track at the UN ITU quantum hackathon with a quantum error correction project.
 - [Lunar Prime](https://github.com/Aryand43/lunar-prime) - our team's entry for NASA Space Apps 2026 (Lunar Landing Site Navigator).
 - [QAOA for MaxCut](https://github.com/TheSonOfKrypton/QAOA-MaxCut) in Qiskit.
 
